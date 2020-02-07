@@ -1,0 +1,5 @@
+classes= 1
+train  = /Users/zunda/Documents/darknet/cfg/task/train.txt
+valid  = /Users/zunda/Documents/darknet/cfg/task/test.txt
+names = /Users/zunda/Documents/darknet/cfg/task/class.txt
+backup = /Users/zunda/Documents/darknet/cfg/task/backup

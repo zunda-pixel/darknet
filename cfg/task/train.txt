@@ -1,0 +1,11 @@
+/Users/zunda/Documents/darknet/cfg/task/datasets/img_0-0.jpeg
+/Users/zunda/Documents/darknet/cfg/task/datasets/img_0-1.jpeg
+/Users/zunda/Documents/darknet/cfg/task/datasets/img_0-2.jpeg
+/Users/zunda/Documents/darknet/cfg/task/datasets/img_0-3.jpeg
+/Users/zunda/Documents/darknet/cfg/task/datasets/img_0-4.jpeg
+/Users/zunda/Documents/darknet/cfg/task/datasets/img_0-5.jpeg
+/Users/zunda/Documents/darknet/cfg/task/datasets/img_0-6.jpeg
+/Users/zunda/Documents/darknet/cfg/task/datasets/img_0-7.jpeg
+/Users/zunda/Documents/darknet/cfg/task/datasets/img_0-8.jpeg
+/Users/zunda/Documents/darknet/cfg/task/datasets/img_0-9.jpeg
+/Users/zunda/Documents/darknet/cfg/task/datasets/img_0-10.jpeg

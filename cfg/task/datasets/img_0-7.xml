@@ -1,0 +1,26 @@
+<annotation>
+	<folder>datasets</folder>
+	<filename>img_0-7.jpeg</filename>
+	<path>/Users/zunda/Documents/darknet/cfg/task/datasets/img_0-7.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>23</ymin>
+			<xmax>319</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>
